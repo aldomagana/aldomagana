@@ -1,6 +1,12 @@
 ## Hi there, I'm Aldo 👋
 
 I am a Computer Science major at Saint Xavier University. I am passionate about creating code that solves problems. I am currently learning about full-stack development and I am excited to see what cool websites I can make.
+
+## 🛠️ Technologies & Tools
+- **Languages**: Java, HTML, CSS
+- **Currently Learning**: React, JavaScript, Node.js, SQL databases, AWS, Docker
+- **Tools**: VS Code, Git, GitHub, Figma
+- **Interests**: Responsive design, accessibility, clean code, UX, UI
 <!--
 **aldomagana/aldomagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
