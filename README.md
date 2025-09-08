@@ -15,6 +15,12 @@ I am a Computer Science major at Saint Xavier University. I am passionate about 
 
 ## 📫 Let's Connect
 - **Email**: aldo.magana78@icloud.com
+
+ ## ⚡ Fun Facts
+- 🎸 I am learning how to play guitar.
+- 🧱 I like to build legos.
+- 🍿 My favorite movies are Whiplash and Scott Pilgrim vs. the world.
+- 🎧 I enjoy collecting vinyls.
 <!--
 **aldomagana/aldomagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
