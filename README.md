@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Aldo 👋
 
+I am a Computer Science major at Saint Xavier University. I am passionate about creating code that solves problems. I am currently learning about full-stack development and I am excited to see what cool websites I can make.
 <!--
 **aldomagana/aldomagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
