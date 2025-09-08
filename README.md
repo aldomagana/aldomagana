@@ -2,6 +2,8 @@
 
 I am a Computer Science major at Saint Xavier University. I am passionate about creating code that solves problems. I am currently learning about full-stack development and I am excited to see what cool websites I can make.
 
+<img src="one-piece-chopper.gif">
+
 ## 🛠️ Technologies & Tools
 - **Languages**: Java, HTML, CSS
 - **Currently Learning**: React, JavaScript, Node.js, SQL databases, AWS, Docker
