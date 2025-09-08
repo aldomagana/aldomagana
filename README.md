@@ -12,6 +12,9 @@ I am a Computer Science major at Saint Xavier University. I am passionate about 
 - Learning full-stack development
 - Making projects for my resume
 - Learning AWS
+
+## 📫 Let's Connect
+- **Email**: aldo.magana78@icloud.com
 <!--
 **aldomagana/aldomagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
